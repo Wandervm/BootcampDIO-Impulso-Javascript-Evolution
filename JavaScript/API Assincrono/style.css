@@ -1,0 +1,21 @@
+*{
+    background-color: #d4d4d4;
+}
+main{
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+main img{
+    width: 250px;
+    height: 250px;
+    border-radius: 3px;
+}
+main button{
+    border-style: none;
+    margin: 10px;
+    background-color: #333;
+    width: 60px;
+    border-radius: 1px;
+    color:red;
+}
