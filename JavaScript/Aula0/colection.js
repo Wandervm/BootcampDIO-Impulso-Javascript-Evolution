@@ -1,3 +1,5 @@
+//Objetivo: Crie uma função que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
+
 const usuarios = new Map()
 
 
